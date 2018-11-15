@@ -15,7 +15,7 @@ semYear = "fall/spring" + "year" = fall18
 ### create_vlsi_groups_semYear.sh format
 
 ```csv
-1,Name(ahb437),Name(tb2358),Name(sr5054),Name(vm1482)
+1,Name(netid9),Name(netid6),Name(netid1),Name(netid3)
 ```
 
 ### get_netids.py
