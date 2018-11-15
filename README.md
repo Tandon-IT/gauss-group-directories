@@ -20,7 +20,7 @@ semYear = "fall/spring" + "year" = fall18
 
 ### get_netids.py
 
-Returns all netids within paranthesis from standard input (ex. pipe)
+Returns all netids within paranthesis from standard input (ex. pipe) from the same group. Group members should be listed in a single line.
 
 ## Example Run
 
