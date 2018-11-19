@@ -12,7 +12,7 @@ semYear = "fall/spring" + "year" = fall18
 * `SEMESTER=semYear`
 * `PDK=/etc/skel/freepdk45_semYear`
 
-### create_vlsi_groups_semYear.sh format
+### create_vlsi_groups_semYear.sh input format
 
 ```csv
 1,Name(netid9),Name(netid6),Name(netid1),Name(netid3)
