@@ -3,6 +3,7 @@
 import re
 import sys
 
+# capture the text between paranthesis
 regex = r"\(([^()]+)\)"
 
 f = sys.stdin
